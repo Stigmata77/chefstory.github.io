@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Chef Story
+description: Delicious Stories from the Kitchen - A Journey Through Culinary Arts
+keywords: Chef, Cooking, Gastronomy, Recipes, Kitchen Stories
+author: Yusra Kilicsoy
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yusrakilicsoy.github.io/chefstory.github.io/" # the base hostname & protocol for your site
